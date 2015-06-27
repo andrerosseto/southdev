@@ -1,1 +1,2 @@
-safsafsda sss sss4344
+if (1 > 0 )
+	return;
